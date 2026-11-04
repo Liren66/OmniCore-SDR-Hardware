@@ -26,6 +26,10 @@ OmniCore SDR 是一款基于 **AD9361 + Zynq-7020 + CH32H417** 的软件无线�
 
 OmniCore SDR 围绕高速 IQ 数据传输、ADI 软件生态兼容以及灵活的时钟接口设计。USB 3.0 用于连接配套上位机；千兆以太网配合板端 Linux 提供 libiio 接口，可接入 GNU Radio、IIO Oscilloscope、pyadi-iio 等工具。
 
+<p align="center">
+  <img src="docs/images/pcb-top-view.png" alt="OmniCore SDR 主板正面 3D 俯视图，右侧射频接口从上到下依次为 TX1、RX1、RX2、TX2" width="960" />
+</p>
+
 | 项目 | 配置与说明 |
 | --- | --- |
 | 射频收发器 | AD9361，2 路接收、2 路发射 |
