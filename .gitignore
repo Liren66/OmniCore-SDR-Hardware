@@ -2,4 +2,5 @@ __Previews/
 History/
 Project Outputs for */
 Project Logs for */
-*.PrjPcbStructure
+*.PrjPcbStructure /
+*.zip

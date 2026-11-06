@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=AD9361.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=AD9361.SchDoc|FileName=AD9361_RF.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=AD9361.SchDoc|FileName=CH32H417_USB3.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=AD9361.SchDoc|FileName=Clock.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=AD9361.SchDoc|FileName=DDR3.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=AD9361.SchDoc|FileName=JTAG.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=AD9361.SchDoc|FileName=LAN_SD.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=AD9361.SchDoc|FileName=PL_IO.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AD9361.SchDoc|FileName=PS_IO.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AD9361.SchDoc|FileName=Sys_Power.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=AD9361.SchDoc|FileName=ZYNQ_Power.SchDoc|SheetNumber=3
